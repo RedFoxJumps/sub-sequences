@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using SubSequences.SubArray;
 
-namespace SubArrayTests
+namespace SubSequences.SubArrayTests
 {
     [TestFixture]
     public class AdditionalSubArrayTests
